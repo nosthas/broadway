@@ -39,7 +39,7 @@ div p {
 }
 
 div#home, div#about{
-  background-image: url("../images/the-flatiron-building.png");
+  background-image: url("https://nosthas.github.io/broadway/resources/images/the-flatiron-building.png");
 }
 
 div#footer {
